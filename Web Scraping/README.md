@@ -6,8 +6,8 @@ Web Scraping is the process of obtaining data directly from a website.
 **BeautifulSoup** - BeautifulSoup is a Python library used to extract the data from an HTML or XML document.
 
 ## Table of Content
-* [Web Scraping - GoodReads](#sql-challenge-link--dataset)
-* [Web Scraping - IMDB](#introduction)
+* [Web Scraping - GoodReads](#web-scraping---goodreads)
+* [Web Scraping - IMDB](#web-scraping---imdb)
 
 ## Web Scraping - GoodReads
 
